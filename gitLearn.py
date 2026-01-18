@@ -5,3 +5,4 @@ def greet(name):
     return f"Hello, {name}!"
 print(greet("Alice")) 
 
+print("This is a sample git learning file.") 
