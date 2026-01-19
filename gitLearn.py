@@ -1,8 +1,6 @@
-print("krishna will fly to the moon") 
+function app(){
+    print("Hello, Git!");
+}
+app(); 
 
-# function to return something 
-def greet(name):
-    return f"Hello, {name}!"
-print(greet("Alice")) 
-
-print("This is a sample git learning file.") 
+print("krishna will fly above clouds in all way") 
