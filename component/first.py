@@ -48,3 +48,15 @@ def calculator():
 
 if __name__ == "__main__":
     calculator()
+
+
+    def factorial(n):
+        if n < 0:
+            return "Error: Negative number"
+        elif n == 0 or n == 1:
+            return 1
+        else:
+            return n * factorial(n - 1)
+
+    # Example usage
+    print(f"Factorial of 5: {factorial(5)}") 
