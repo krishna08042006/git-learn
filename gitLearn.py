@@ -12,3 +12,10 @@ print("just a new line added in gitLearn.py file");
 print("adding one more line to test git functionality");
 
 print("final line added in gitLearn.py file"); 
+
+function add(a,b){
+    return a+b
+}
+
+result=add(200,400) 
+print(result) 
