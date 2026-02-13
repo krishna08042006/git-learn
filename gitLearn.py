@@ -19,3 +19,6 @@ function add(a,b){
 
 result=add(200,400) 
 print(result) 
+
+
+print("rising is rising in all way")
