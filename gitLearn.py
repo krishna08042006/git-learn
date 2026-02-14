@@ -21,4 +21,6 @@ result=add(200,400)
 print(result) 
 
 
-print("rising is rising in all way")
+print("rising is rising in all way") 
+
+print("Being in a great way") 
