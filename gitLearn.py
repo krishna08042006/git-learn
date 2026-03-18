@@ -66,3 +66,5 @@ print("Will be shining in a great way")
 print("will be at best time of era")
 
 print("something happening in a most unexpected way")
+
+print("something to be in a great way")
