@@ -88,3 +88,5 @@ print("being in a great way")
 print("being in a way that would be best")
 
 print("something to be done in all possible way")
+
+print("A way to determine something")
