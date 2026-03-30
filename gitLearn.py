@@ -98,3 +98,5 @@ print("Git learning in great pace")
 print("Git learning with good performance")
 
 print("Git is best to be learned")
+
+print("Git learning in easy way")
