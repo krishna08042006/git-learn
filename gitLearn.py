@@ -100,3 +100,5 @@ print("Git learning with good performance")
 print("Git is best to be learned")
 
 print("Git learning in easy way")
+
+print("Git with major chance to win")
