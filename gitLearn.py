@@ -105,4 +105,6 @@ print("Git with major chance to win")
 
 print("Git to be learned with most expectation")
 
-print("Git learning in a great way") 
+print("Git learning in a great way")
+
+print("Git learned and learning in a great way")
