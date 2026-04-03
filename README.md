@@ -5,7 +5,7 @@ I learned Git with the above file use and by pushing the code to github in a dif
 
 I used different git keywords:-
 
-git status
-git add fileName
-git commit -m message
+git status------->
+git add fileName------>
+git commit -m message------->
 git push
