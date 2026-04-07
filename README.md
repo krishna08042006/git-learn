@@ -1,5 +1,6 @@
 I am learning git through this repository
 
+I am practising git with the help of python programming language
 
 I learned Git with the above file use and by pushing the code to github in a different way to learn.
 
