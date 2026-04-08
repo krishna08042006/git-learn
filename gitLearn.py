@@ -126,3 +126,5 @@ print("doing great with git learning")
 print("moving in a great pace with git learning")
 
 print("git is to be learned and is being learned")
+
+print("git is to be learned in a best way")
