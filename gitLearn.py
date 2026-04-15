@@ -139,4 +139,6 @@ print("Doing something in a best possible way with git")
 
 print("git learned and will be learned more")
 
-print("git learned in a best pase") 
+print("git learned in a best pase")
+
+print("git learning in a pace")
