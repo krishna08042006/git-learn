@@ -144,3 +144,5 @@ print("git learned in a best pase")
 print("git learning in a pace")
 
 print("git learning to be in best time")
+
+print("git is learned in a best way")
