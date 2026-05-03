@@ -166,3 +166,5 @@ print("git learning in best phase of time")
 print("git is best in it's best")
 
 print("git becomes is best when it is needed to be best")
+
+print("git is to be best learned")
