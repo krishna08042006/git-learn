@@ -178,3 +178,5 @@ print("git to be learned with best pace of time")
 print("git with its best pace of work")
 
 print("git is best in its best pace of learning")
+
+print("git is best learned when it is best to be learned")
