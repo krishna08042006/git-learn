@@ -186,3 +186,5 @@ print("git is learned to transform something")
 print("git is best to be learned in it's best pace of time")
 
 print("git is to be learned in a best to accomplish something")
+
+print("git is git in all way")
