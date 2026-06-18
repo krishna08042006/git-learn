@@ -226,3 +226,5 @@ print("git is to be learned")
 print("git is best when it is learned in right path")
 
 print("git is best when it is learned and adjusted in a best way")
+
+print("git is to be best learned in a best way")
