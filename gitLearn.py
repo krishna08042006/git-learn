@@ -242,3 +242,5 @@ print("git is best when it is used in a best place to get the good outcome")
 print("git is to be learned with every possible way")
 
 print("git is best learned in a best way and in best possible time")
+
+print("git is best when it is learned in a best way")
